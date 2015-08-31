@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_nome">Nome</string>
+    <string name="label_senha">Senha</string>
+    <string name="label_manter_conectado">manter conectado</string>
+    <string name="bt_conectar">conectar</string>
+    <string name="hint_nome">digite seu nome</string>
+    <string name="hint_senha">digite sua senha</string>
+</resources>
